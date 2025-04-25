@@ -10,7 +10,7 @@ The information presented on this page is valid for **all** platforms.
 
 ## GUI or CLI?
 
-![GUI vs CLI](https://i.imgur.com/j9OTxRB.png)
+![GUI vs CLI](/.assets/imgur/j9OTxRB.png)
 
 **DCE** has two different versions:
 
@@ -28,7 +28,7 @@ There are dedicated guides for each version:
 
 ### HTML
 
-![](https://i.imgur.com/S7lBTkV.png)
+![](/.assets/imgur/S7lBTkV.png)
 The HTML format replicates Discord's interface, making it the most user-friendly option.
 It's the best format for attachment preview and sharing.
 You can open `.html` files with a web browser, such as Google Chrome.
@@ -39,22 +39,22 @@ You can open `.html` files with a web browser, such as Google Chrome.
 
 ### Plain Text
 
-<img src="https://i.imgur.com/PbUyRXD.png" height="400"/>
+<img src="/.assets/imgur/PbUyRXD.png" height="400"/>
 
 The Plain Text format formats messages as plain text, and has the smallest size.
 You can open `.txt` files with a text editor, such as Notepad.
 
 ### JSON
 
-<img src="https://i.imgur.com/FAeSA4O.png" height="400"/>
+<img src="/.assets/imgur/FAeSA4O.png" height="400"/>
 
 The JSON format contains more technical information and is easily parsable.
 You can open `.json` files with a text editor, such as Notepad.
 
 ### CSV
 
-![](https://i.imgur.com/VEVUsKs.png)
-![](https://i.imgur.com/1vPmQqQ.png)
+![](/.assets/imgur/VEVUsKs.png)
+![](/.assets/imgur/1vPmQqQ.png)
 
 The CSV format allows for easy parsing of the chat log. Depending on your needs, the JSON format might be better.
 You can open `.csv` files with a text editor, such as Notepad, or a spreadsheet app, like Microsoft Excel and Google Sheets.

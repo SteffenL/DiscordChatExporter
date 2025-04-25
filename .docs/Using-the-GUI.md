@@ -20,17 +20,17 @@ Please refer to the on-screen instructions to get your token, then paste your to
 > **Never share your token!**
 > A token gives full access to an account, treat it like a password.
 
-<img src="https://i.imgur.com/SuLQ5tZ.png" height="400"/>
+<img src="/.assets/imgur/SuLQ5tZ.png" height="400"/>
 
 ### Step 3
 
-DCE will display your Direct Messages and a sidebar with your server list. Select the channel you would like to export, then click the ![Screenshot](https://i.imgur.com/dnTOlDa.png) button to continue.
+DCE will display your Direct Messages and a sidebar with your server list. Select the channel you would like to export, then click the ![Screenshot](/.assets/imgur/dnTOlDa.png) button to continue.
 
 > **Note**:
 > You can export multiple channels at once by holding `CTRL` or `SHIFT` while selecting.
-> You can also double-click a channel to export it without clicking the ![Screenshot](https://i.imgur.com/dnTOlDa.png) button.
+> You can also double-click a channel to export it without clicking the ![Screenshot](/.assets/imgur/dnTOlDa.png) button.
 
-<img src="https://i.imgur.com/JHMFRh2.png" height="400"/>
+<img src="/.assets/imgur/JHMFRh2.png" height="400"/>
 
 ### Step 4
 

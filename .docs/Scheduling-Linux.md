@@ -87,7 +87,7 @@ exit 0
 
 Then replace the \*s according to:
 
-![](https://i.imgur.com/RY7USM6.png)
+![](/.assets/imgur/RY7USM6.png)
 
 ---
 

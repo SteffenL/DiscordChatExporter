@@ -6,7 +6,7 @@
 
 2. Convert the file to a plain text one in 'Format > Make Plain Text' (⇧⌘T)
 
-![](https://i.imgur.com/WXrTtXM.png)
+![](/.assets/imgur/WXrTtXM.png)
 
 3. Paste the following into the text editor:
 
@@ -84,7 +84,7 @@ After copying and pasting, make sure the file/folder name is not missing. If a f
 - `/Users/user/Documents/Discord\ Exports` - Correct ✓
 - `/Users/user/Desktop/DiscordChatExporter` - Correct ✓
 
-![Screenshot of mac info window](https://i.imgur.com/29u6Nyx.png)
+![Screenshot of mac info window](/.assets/imgur/29u6Nyx.png)
 
 5. Save the file as `filename.sh`, not `.txt`
 6. Open Terminal.app, type `chmod +x`, press the SPACE key, then drag & drop the `filename.sh` into the Terminal window and hit RETURN. You may be prompted for your password, and you won't be able to see it as you type.

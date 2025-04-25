@@ -56,21 +56,21 @@ Please note that your computer must be turned on for the export to happen.
 1. Press Windows + R, type `taskschd.msc` and press ENTER
 2. Select `Task Scheduler Library`, create a Basic Task, and follow the instructions on-screen
 
-<img src="https://i.imgur.com/MHRVGDi.png" height="500"/>
+<img src="/.assets/imgur/MHRVGDi.png" height="500"/>
 
-![Screenshot from Task Scheduler](https://i.imgur.com/m2DKhA8.png)
+![Screenshot from Task Scheduler](/.assets/imgur/m2DKhA8.png)
 
 3. At 'Start a Program', write `powershell -file -ExecutionPolicy ByPass -WindowStyle Hidden "C:\path\to\filename.ps1"` in the Program/script text box
 
-![](https://i.imgur.com/FGtWRod.png)
+![](/.assets/imgur/FGtWRod.png)
 
 4. Click 'Yes'
 
-![](https://i.imgur.com/DuaRBt3.png)
+![](/.assets/imgur/DuaRBt3.png)
 
 5. Click 'Finish'
 
-![](https://i.imgur.com/LHgXp9Q.png)
+![](/.assets/imgur/LHgXp9Q.png)
 
 ---
 

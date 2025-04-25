@@ -16,7 +16,7 @@ Prerequisite step: Navigate to [discord.com](https://discord.com) and login.
 
 ##### Using the console
 
-1. <img width="500" align="right" src="https://i.imgur.com/zdDwIT5.jpg" />Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> (<kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>I</kbd> on macOS). Chrome's [DevTools](https://developer.chrome.com/docs/devtools/overview) tools will display.
+1. <img width="500" align="right" src="/.assets/imgur/zdDwIT5.jpg" />Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> (<kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>I</kbd> on macOS). Chrome's [DevTools](https://developer.chrome.com/docs/devtools/overview) tools will display.
 
 <br clear="right" />
 <br />
@@ -33,74 +33,74 @@ Prerequisite step: Navigate to [discord.com](https://discord.com) and login.
 
 ##### Using the network monitor
 
-1. <img width="500" align="right" src="https://i.imgur.com/zdDwIT5.jpg" />Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> (<kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>I</kbd> on macOS). Chrome's [DevTools](https://developer.chrome.com/docs/devtools/overview) tools will display.
+1. <img width="500" align="right" src="/.assets/imgur/zdDwIT5.jpg" />Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> (<kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>I</kbd> on macOS). Chrome's [DevTools](https://developer.chrome.com/docs/devtools/overview) tools will display.
 
 <br clear="right" />
 <br />
 
-2. <img width="500" align="right" src="https://i.imgur.com/BDeG0zg.png" />Click the `Network` tab. The [network panel](https://developer.chrome.com/docs/devtools/overview/#network) will open
+2. <img width="500" align="right" src="/.assets/imgur/BDeG0zg.png" />Click the `Network` tab. The [network panel](https://developer.chrome.com/docs/devtools/overview/#network) will open
 
 <br clear="right" />
 <br />
 
-3. <img width="500" align="right" src="https://i.imgur.com/0Lgj0vk.png" />Press <kbd>F5</kbd>. The page will reload, and the network log (the lower half of the network panel) will display several entries.
+3. <img width="500" align="right" src="/.assets/imgur/0Lgj0vk.png" />Press <kbd>F5</kbd>. The page will reload, and the network log (the lower half of the network panel) will display several entries.
 
 <br clear="right" />
 <br />
 
-4. <img width="500" align="right" src="https://i.imgur.com/rnZG8Id.png" />Click the text box labelled `Filter` and type `messages`. The entries will filter down to a single request named `messages`. If the request doesn't appear, switch to any other Discord channel to trigger it.
+4. <img width="500" align="right" src="/.assets/imgur/rnZG8Id.png" />Click the text box labelled `Filter` and type `messages`. The entries will filter down to a single request named `messages`. If the request doesn't appear, switch to any other Discord channel to trigger it.
 
 <br clear="right" />
 <br />
 
-5. <img width="500" align="right" src="https://i.imgur.com/29dE3fR.png" />Click the entry named `messages`. A panel will open to the right and display details about the entry. Click the `Headers` tab if it isn't already active.
+5. <img width="500" align="right" src="/.assets/imgur/29dE3fR.png" />Click the entry named `messages`. A panel will open to the right and display details about the entry. Click the `Headers` tab if it isn't already active.
 
 <br clear="right" />
 <br />
 
-6. <img width="500" align="right" src="https://i.imgur.com/u7CxXAt.png" />Scroll through the contents of the `Headers` tab until you find an entry beginning with `authorization:`.
+6. <img width="500" align="right" src="/.assets/imgur/u7CxXAt.png" />Scroll through the contents of the `Headers` tab until you find an entry beginning with `authorization:`.
 
 <br clear="right" />
 <br />
 
-7. <img width="500" align="right" src="https://i.imgur.com/dXcXzma.png" />Right-click the entry and click `copy value`.
+7. <img width="500" align="right" src="/.assets/imgur/dXcXzma.png" />Right-click the entry and click `copy value`.
 
 <br clear="right" />
 <br />
 
 ##### Using the storage inspector
 
-1. <img width="500" align="right" src="https://i.imgur.com/zdDwIT5.jpg" />Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> (<kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>I</kbd> on macOS). Chrome's [DevTools](https://developer.chrome.com/docs/devtools/overview/) will display.
+1. <img width="500" align="right" src="/.assets/imgur/zdDwIT5.jpg" />Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> (<kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>I</kbd> on macOS). Chrome's [DevTools](https://developer.chrome.com/docs/devtools/overview/) will display.
 
 <br clear="right" />
 <br />
 
-2. <img width="500" align="right" src="https://i.imgur.com/biAUIop.png" />Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> (<kbd>⌘</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd>). Chrome will enter [Device Mode](https://developer.chrome.com/docs/devtools/device-mode/), and the webpage will display as if on a mobile device.
+2. <img width="500" align="right" src="/.assets/imgur/biAUIop.png" />Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> (<kbd>⌘</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd>). Chrome will enter [Device Mode](https://developer.chrome.com/docs/devtools/device-mode/), and the webpage will display as if on a mobile device.
 
 <br clear="right" />
 <br />
 
-3. <img width="500" align="right" src="https://i.imgur.com/oUDRZoy.png" />If necessary, click the `»` at the right end of the tab bar, and click `Application`. The [application panel](https://developer.chrome.com/docs/devtools/overview/#application) will display.
+3. <img width="500" align="right" src="/.assets/imgur/oUDRZoy.png" />If necessary, click the `»` at the right end of the tab bar, and click `Application`. The [application panel](https://developer.chrome.com/docs/devtools/overview/#application) will display.
 
 <br clear="right" />
 <br />
 
-4. <img width="500" align="right" src="https://i.imgur.com/sydNPia.png" />In the menu to the right, under `Storage`, expand `Local Storage` if necessary, then click `https://discord.com`. The pane to the right will display a list of key-value pairs.
+4. <img width="500" align="right" src="/.assets/imgur/sydNPia.png" />In the menu to the right, under `Storage`, expand `Local Storage` if necessary, then click `https://discord.com`. The pane to the right will display a list of key-value pairs.
 
 <br clear="right" />
 <br />
 
-5. <img width="500" align="right" src="https://i.imgur.com/qKo0ny9.png" />In the text box marked `Filter`, type `token`. The entries will filter down to those containing the string `token`.
+5. <img width="500" align="right" src="/.assets/imgur/qKo0ny9.png" />In the text box marked `Filter`, type `token`. The entries will filter down to those containing the string `token`.
 
 <br clear="right" />
 <br />
 
-6. <img width="500" align="right" src="https://i.imgur.com/caj3lQq.png" />Click the `token` entry. (Note: if the token doesn't display, try refreshing by pressing <kbd>F5</kbd> or <kbd>⌘</kbd>+<kbd>R</kbd> on macOS)
+6. <img width="500" align="right" src="/.assets/imgur/caj3lQq.png" />Click the `token` entry. (Note: if the token doesn't display, try refreshing by pressing <kbd>F5</kbd> or <kbd>⌘</kbd>+<kbd>R</kbd> on macOS)
 
 <br clear="right" />
 <br />
 
-7. <img width="500" align="right" src="https://i.imgur.com/SwWFIH4.png" />Click the text box at the bottom, press <kbd>Ctrl</kbd>+<kbd>A</kbd> (<kbd>⌘</kbd>+<kbd>A</kbd> on macOS) then <kbd>Ctrl</kbd>+<kbd>C</kbd> (<kbd>⌘</kbd>+<kbd>C</kbd> on macOS) to copy the value to your clipboard.
+7. <img width="500" align="right" src="/.assets/imgur/SwWFIH4.png" />Click the text box at the bottom, press <kbd>Ctrl</kbd>+<kbd>A</kbd> (<kbd>⌘</kbd>+<kbd>A</kbd> on macOS) then <kbd>Ctrl</kbd>+<kbd>C</kbd> (<kbd>⌘</kbd>+<kbd>C</kbd> on macOS) to copy the value to your clipboard.
 
 <br clear="right" />
 <br />
@@ -109,7 +109,7 @@ Prerequisite step: Navigate to [discord.com](https://discord.com) and login.
 
 ##### Using the console
 
-1. <img width="500" align="right" src="https://i.imgur.com/O34nwdG.png" />Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (<kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>K</kbd> on macOS). Firefox’s [web developer tools](https://firefox-source-docs.mozilla.org/devtools-user/) will display at the bottom of the window, and the [web console](https://firefox-source-docs.mozilla.org/devtools-user/console/index.html) will display.
+1. <img width="500" align="right" src="/.assets/imgur/O34nwdG.png" />Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (<kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>K</kbd> on macOS). Firefox’s [web developer tools](https://firefox-source-docs.mozilla.org/devtools-user/) will display at the bottom of the window, and the [web console](https://firefox-source-docs.mozilla.org/devtools-user/console/index.html) will display.
 
 <br clear="right" />
 <br />
@@ -126,74 +126,74 @@ Prerequisite step: Navigate to [discord.com](https://discord.com) and login.
 
 ##### Using the network monitor
 
-1. <img width="500" align="right" src="https://i.imgur.com/O34nwdG.png" />Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>E</kbd> (<kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>E</kbd> on macOS). Firefox’s [web developer tools](https://firefox-source-docs.mozilla.org/devtools-user/) will display at the bottom of the window, and the [network monitor](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/) will display.
+1. <img width="500" align="right" src="/.assets/imgur/O34nwdG.png" />Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>E</kbd> (<kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>E</kbd> on macOS). Firefox’s [web developer tools](https://firefox-source-docs.mozilla.org/devtools-user/) will display at the bottom of the window, and the [network monitor](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/) will display.
 
 <br clear="right" />
 <br />
 
-2. <img width="500" align="right" src="https://i.imgur.com/j00QzhU.png" />Press <kbd>F5</kbd>. The page will reload, and the [network request list](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/request_list/index.html) will populate with entries.
+2. <img width="500" align="right" src="/.assets/imgur/j00QzhU.png" />Press <kbd>F5</kbd>. The page will reload, and the [network request list](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/request_list/index.html) will populate with entries.
 
 <br clear="right" />
 <br />
 
-3. <img width="500" align="right" src="https://i.imgur.com/efUCfBO.png" />Type `messages` into the filter. The network request list will filter out any entries not containing the string `messages`. If the request doesn't appear, switch to any other Discord channel to trigger it.
+3. <img width="500" align="right" src="/.assets/imgur/efUCfBO.png" />Type `messages` into the filter. The network request list will filter out any entries not containing the string `messages`. If the request doesn't appear, switch to any other Discord channel to trigger it.
 
 <br clear="right" />
 <br />
 
-4. <img width="500" align="right" src="https://i.imgur.com/cdJZ7Q1.png" />Click `messages`. The [network request details pane](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/request_details/index.html) will display. The [headers tab](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/request_details/index.html#network-monitor-request-details-headers-tab) should be active by default. If it isn’t, click it.
+4. <img width="500" align="right" src="/.assets/imgur/cdJZ7Q1.png" />Click `messages`. The [network request details pane](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/request_details/index.html) will display. The [headers tab](https://firefox-source-docs.mozilla.org/devtools-user/network_monitor/request_details/index.html#network-monitor-request-details-headers-tab) should be active by default. If it isn’t, click it.
 
 <br clear="right" />
 <br />
 
-5. <img width="500" align="right" src="https://i.imgur.com/zBmq1JW.png" />Type `authorization` into the text box labelled `Filter Headers`.
+5. <img width="500" align="right" src="/.assets/imgur/zBmq1JW.png" />Type `authorization` into the text box labelled `Filter Headers`.
 
 <br clear="right" />
 <br />
 
-6. <img width="500" align="right" src="https://i.imgur.com/O3blcIS.png" />Scroll down until you see an entry labeled [authorization](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization) under `Request Headers`.
+6. <img width="500" align="right" src="/.assets/imgur/O3blcIS.png" />Scroll down until you see an entry labeled [authorization](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization) under `Request Headers`.
 
 <br clear="right" />
 <br />
 
-7. <img width="500" align="right" src="https://i.imgur.com/zHYEYoZ.png" />Right-click the entry labeled `authorization` and select `copy value`.
+7. <img width="500" align="right" src="/.assets/imgur/zHYEYoZ.png" />Right-click the entry labeled `authorization` and select `copy value`.
 
 <br clear="right" />
 <br />
 
 ##### Using the storage inspector
 
-1. <img width="500" align="right" src="https://i.imgur.com/A8jqpkm.png" />Press <kbd>Shift</kbd>+<kbd>F9</kbd>. Firefox’s [web developer tools](https://firefox-source-docs.mozilla.org/devtools-user/) will display at the bottom of the window, and the [storage](https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/index.html) panel will be selected.
+1. <img width="500" align="right" src="/.assets/imgur/A8jqpkm.png" />Press <kbd>Shift</kbd>+<kbd>F9</kbd>. Firefox’s [web developer tools](https://firefox-source-docs.mozilla.org/devtools-user/) will display at the bottom of the window, and the [storage](https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/index.html) panel will be selected.
 
 <br clear="right" />
 <br />
 
-2. <img width="500" align="right" src="https://i.imgur.com/TGcbB7f.png" />Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> (<kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>M</kbd> on macOS). Firefox will toggle [responsive design mode](https://firefox-source-docs.mozilla.org/devtools-user/responsive_design_mode/), and the web page will display as if on a mobile device. (Note: Discord may steal focus and respond to the command by toggling mute. If this happens, return focus to Firefox’s web developer tools by clicking somewhere in it, then try the command again.)
+2. <img width="500" align="right" src="/.assets/imgur/TGcbB7f.png" />Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> (<kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>M</kbd> on macOS). Firefox will toggle [responsive design mode](https://firefox-source-docs.mozilla.org/devtools-user/responsive_design_mode/), and the web page will display as if on a mobile device. (Note: Discord may steal focus and respond to the command by toggling mute. If this happens, return focus to Firefox’s web developer tools by clicking somewhere in it, then try the command again.)
 
 <br clear="right" />
 <br />
 
-3. <img width="500" align="right" src="https://i.imgur.com/2xWkep9.png" />In the [storage tree](https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/index.html#storage-inspector-storage-tree) (the list on the left side of the web developer tools panel), click [Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage). The entry will expand, and the entry `https://discord.com` will display beneath it.
+3. <img width="500" align="right" src="/.assets/imgur/2xWkep9.png" />In the [storage tree](https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/index.html#storage-inspector-storage-tree) (the list on the left side of the web developer tools panel), click [Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage). The entry will expand, and the entry `https://discord.com` will display beneath it.
 
 <br clear="right" />
 <br />
 
-4. <img width="500" align="right" src="https://i.imgur.com/tGlGuOL.png" />In the storage tree, click `https://discord.com`. The [table widget](https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/index.html#storage-inspector-table-widget) to the right of the storage tree will display several key-value pairs.
+4. <img width="500" align="right" src="/.assets/imgur/tGlGuOL.png" />In the storage tree, click `https://discord.com`. The [table widget](https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/index.html#storage-inspector-table-widget) to the right of the storage tree will display several key-value pairs.
 
 <br clear="right" />
 <br />
 
-5. <img width="500" align="right" src="https://i.imgur.com/hDNsnZ5.png" />In the text box labelled `Filter items` at the top of the table widget, enter `token`. The table will now only display entries containing the string `token`.
+5. <img width="500" align="right" src="/.assets/imgur/hDNsnZ5.png" />In the text box labelled `Filter items` at the top of the table widget, enter `token`. The table will now only display entries containing the string `token`.
 
 <br clear="right" />
 <br />
 
-6. <img width="500" align="right" src="https://i.imgur.com/8fKId1W.png" />Click the entry `token`. The [sidebar](https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/index.html#storage-inspector-sidebar) will display. (Note: If the token doesn’t display, try refreshing by pressing <kbd>F5</kbd>.)
+6. <img width="500" align="right" src="/.assets/imgur/8fKId1W.png" />Click the entry `token`. The [sidebar](https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/index.html#storage-inspector-sidebar) will display. (Note: If the token doesn’t display, try refreshing by pressing <kbd>F5</kbd>.)
 
 <br clear="right" />
 <br />
 
-7. <img width="500" align="right" src="https://i.imgur.com/yD1ZuR9.png" />Right-click the single entry in the sidebar and select `copy`.
+7. <img width="500" align="right" src="/.assets/imgur/yD1ZuR9.png" />Right-click the single entry in the sidebar and select `copy`.
 
 <br clear="right" />
 <br />
@@ -236,17 +236,17 @@ Prerequisite step: Navigate to [discord.com](https://discord.com) and login.
 
 #### Via settings menu (BetterDiscord only)
 
-1. <img width="500" align="right" src="https://i.imgur.com/mu1g4OF.png" />Click the User Settings button (the gear icon to the right of your username). Discord’s settings page will open.
+1. <img width="500" align="right" src="/.assets/imgur/mu1g4OF.png" />Click the User Settings button (the gear icon to the right of your username). Discord’s settings page will open.
 
 <br clear="right" />
 <br />
 
-2. <img width="500" align="right" src="https://i.imgur.com/qFrIKON.png" />In the sidebar to the left, click `Settings` under the `BetterDiscord` group. BetterDiscord’s settings page will display.
+2. <img width="500" align="right" src="/.assets/imgur/qFrIKON.png" />In the sidebar to the left, click `Settings` under the `BetterDiscord` group. BetterDiscord’s settings page will display.
 
 <br clear="right" />
 <br />
 
-3. <img width="500" align="right" src="https://i.imgur.com/48Re5kj.png" />In the main panel to the right, expand the `Developer Settings` group if necessary, and toggle `DevTools` to enabled.
+3. <img width="500" align="right" src="/.assets/imgur/48Re5kj.png" />In the main panel to the right, expand the `Developer Settings` group if necessary, and toggle `DevTools` to enabled.
 
 <br clear="right" />
 <br />
@@ -264,7 +264,7 @@ Prerequisite step: Navigate to [discord.com](https://discord.com) and login.
 > **Warning**:
 > Your bot needs to have **Message Content Intent** enabled for it to be able to read messages!
 
-![https://discord.com/developers/applications/](https://i.imgur.com/BdrrxlY.png)
+![https://discord.com/developers/applications/](/.assets/imgur/BdrrxlY.png)
 
 ---
 
