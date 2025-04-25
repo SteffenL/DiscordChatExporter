@@ -15,9 +15,9 @@ The information presented on this page is valid for **all** platforms.
 **DCE** has two different versions:
 
 - **Graphical User Interface** (**GUI**) - it's the preferred version for newcomers as it is easy to use.
-  You can get it by [downloading](https://github.com/Tyrrrz/DiscordChatExporter/releases/latest) the `DiscordChatExporter.*.zip` file.
+  You can get it by [downloading](https://github.com/SteffenL/DiscordChatExporter/releases/latest) the `DiscordChatExporter.*.zip` file.
 - **Command-line Interface** (**CLI**) - offers greater flexibility and more features for advanced users, such as export scheduling, ID lists, and more specific date ranges.
-  You can get it by [downloading](https://github.com/Tyrrrz/DiscordChatExporter/releases/latest) the `DiscordChatExporter.Cli.*.zip` file.
+  You can get it by [downloading](https://github.com/SteffenL/DiscordChatExporter/releases/latest) the `DiscordChatExporter.Cli.*.zip` file.
 
 There are dedicated guides for each version:
 

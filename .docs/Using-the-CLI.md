@@ -222,7 +222,7 @@ Use `--filter` to filter what messages are included in the export.
 ./DiscordChatExporter.Cli export -t "mfa.Ifrn" -c 53555 --filter "from:Tyrrrz has:image"
 ```
 
-Documentation on message filter syntax can be found [here](https://github.com/Tyrrrz/DiscordChatExporter/blob/master/.docs/Message-filters.md).
+Documentation on message filter syntax can be found [here](https://github.com/SteffenL/DiscordChatExporter/blob/master/.docs/Message-filters.md).
 
 ### Export channels from a specific server
 

@@ -12,7 +12,7 @@
 
 ```bash
 #!/bin/bash
-# Info: https://github.com/Tyrrrz/DiscordChatExporter/blob/master/.docs
+# Info: https://github.com/SteffenL/DiscordChatExporter/blob/master/.docs
 
 TOKEN=tokenhere
 CHANNELID=channelhere

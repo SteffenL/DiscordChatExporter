@@ -57,7 +57,7 @@ You can also use the current working directory as the output directory by specif
 - `-v $PWD:/out` in Bash
 - `-v $pwd.Path:/out` in PowerShell
 
-For more information, please refer to the [Dockerfile](https://github.com/Tyrrrz/DiscordChatExporter/blob/master/DiscordChatExporter.Cli.dockerfile) and [Docker documentation](https://docs.docker.com/engine/reference/run).
+For more information, please refer to the [Dockerfile](https://github.com/SteffenL/DiscordChatExporter/blob/master/DiscordChatExporter.Cli.dockerfile) and [Docker documentation](https://docs.docker.com/engine/reference/run).
 
 To get your Token and Channel IDs, please refer to [this page](Token-and-IDs.md).
 
